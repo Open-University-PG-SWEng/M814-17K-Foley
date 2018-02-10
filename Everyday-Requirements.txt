@@ -20,3 +20,17 @@ Type: Functional Requirement
 Rationale: By logging the booking the property owner knows when the property is rented, also it is not possible to inadvertently double-book the property 
 Originator: Steven Elkins – Software developer 
 
+REQ-ID: RV
+Description: The product must be able to send requests to the local property Service company. 
+Type: Functional Requirement
+Rationale: If owner requests maintenance and cleaning to be done, product must send requests to the local property Service company, for property to be maintenanced and cleaned. 
+Originator: Remigijus Vindasius – Software developer 
+
+REQ-ID: RV
+Description: The product must produce booking confirmation letter.
+Type: Functional Requirement
+Rationale: When booking is completed system produces booking confirmation letter for the holidaymaker and the property owner.
+
+Originator: Remigijus Vindasius – Software developer 
+
+
