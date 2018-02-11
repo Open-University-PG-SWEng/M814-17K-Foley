@@ -33,4 +33,14 @@ Rationale: When booking is completed system produces booking confirmation letter
 
 Originator: Remigijus Vindasius – Software developer 
 
+REQ-ID: DG1 
+Description: The product must include filtering of the property list.
+Type: Functional Requirement
+Rationale: To enable customers to quickly view properties which match their requirements.
+Originator: Deirdre Gilna
 
+REQ-ID: DG2
+Description: The product must display up-to-date property availability
+Type: Functional Requirement
+Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
+Originator: Deirdre Gilna
