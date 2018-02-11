@@ -1,24 +1,4 @@
-REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-Comment: The following is the answer to 4(a) of Assessment -TMA 2 (Module M814) 
-The first of the two functional requirements, is to get the holidaymakers’ contact details. Contact details would be email address, mobile number and address. The rationale would be to inform potential holidaymaker of available holiday let properties throughout the year, by contacting holidaymaker via email, text message to mobile or by sending out pamphlets to address. The originator for obtaining this information could be a database on the ‘Every Day’ website or ‘Everyday’ letting agency.
-The second is creating a website that shows, a variety of professional photographs, of Landbnb’s holiday let properties, that show the types of property on offer, if they cater for a family or not, do they require off road parking, location shots. Also showing local attractions and amenities to entice a holiday maker to make a booking. The originator of this information would be from the property owner and letting agency representative. JO
 
-REQ-ID: SE
-Description: The product allows storage of holidaymaker contact details
-Type: Functional Requirement
-Rationale: Client details enable future identification and contact
-Originator: Steven Elkins – Software developer 
-
-REQ-ID: SE
-Description: The product allows rental properties to be booked and recorded in the booking diary
-Type: Functional Requirement
-Rationale: By logging the booking the property owner knows when the property is rented, also it is not possible to inadvertently double-book the property 
-Originator: Steven Elkins – Software developer 
 
 REQ-ID: RV
 Description: The product must be able to send requests to the local property Service company. 
