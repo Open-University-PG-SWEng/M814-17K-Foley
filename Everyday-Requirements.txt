@@ -45,6 +45,7 @@ Type: Functional Requirement
 Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
 Originator: Deirdre Gilna
 
+
 REQ-ID: BM1
 Description: The product shall allow the list of filtered properties to be saved.
 Type: Functional Requirement
@@ -56,3 +57,16 @@ Description: The product shall allow properties to be filtered by available date
 Type: Functional Requirement
 Rationale: To allow users to exclude properties from their search that do not match the criteria and save time by narrowing down the number of properties displayed.
 Originator: Becky Morfitt
+
+REQ-ID: SR
+Description: The product shall allow users to access and view all available properties. 
+Type: Functional Requirement
+Rationale: holiday makers could access property information independently.
+Originator: Simcha Riseman 
+
+REQ-ID: SR
+Description: The product shall have a search and filter capabilities.
+Type: Functional Requirement
+Rationale: Search and filters options provide holiday makers fast access to relevant properties.
+Originator: Simcha Riseman 
+
