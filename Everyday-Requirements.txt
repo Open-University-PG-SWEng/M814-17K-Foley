@@ -44,3 +44,15 @@ Description: The product must display up-to-date property availability
 Type: Functional Requirement
 Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
 Originator: Deirdre Gilna
+
+REQ-ID: BM1
+Description: The product shall allow the list of filtered properties to be saved.
+Type: Functional Requirement
+Rationale: To allow users to save a list of filtered properties for future use, so they do not have to repeat the search process again.
+Originator: Becky Morfitt
+
+REQ-ID: BM2
+Description: The product shall allow properties to be filtered by available date range, location and price.
+Type: Functional Requirement
+Rationale: To allow users to exclude properties from their search that do not match the criteria and save time by narrowing down the number of properties displayed.
+Originator: Becky Morfitt
