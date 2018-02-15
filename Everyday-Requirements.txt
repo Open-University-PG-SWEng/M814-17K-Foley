@@ -82,5 +82,5 @@ Originator: Mayuresh Pukale
 REQ-ID: MP2
 Description: The product shall accept contact details and property requirements of holidaymaker.
 Type: Functional Requirement
-Rationale: To allow the holidaymaker to provide contact details and property requirements for recording. Recording of contact details and property requirements would enable Landbnb to contact the holidaymaker anytime and provide a list of suitable properties.
+Rationale: To allow the holidaymaker to provide contact details and property requirements for recording. Recording of contact details and property requirements would provide flexibility to Landbnb in contacting the holidaymaker for providing any service.
 Originator: Mayuresh Pukale
