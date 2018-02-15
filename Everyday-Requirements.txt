@@ -60,13 +60,13 @@ Type: Functional Requirement
 Rationale: To allow users to exclude properties from their search that do not match the criteria and save time by narrowing down the number of properties displayed.
 Originator: Becky Morfitt
 
-REQ-ID: SR
+REQ-ID: SR1
 Description: The product shall allow users to access and view all available properties. 
 Type: Functional Requirement
 Rationale: holiday makers could access property information independently.
 Originator: Simcha Riseman 
 
-REQ-ID: SR
+REQ-ID: SR2
 Description: The product shall have a search and filter capabilities.
 Type: Functional Requirement
 Rationale: Search and filters options provide holiday makers fast access to relevant properties.
