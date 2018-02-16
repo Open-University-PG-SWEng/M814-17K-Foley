@@ -84,3 +84,15 @@ Description: The product shall accept contact details and property requirements 
 Type: Functional Requirement
 Rationale: To allow the holidaymaker to provide contact details and property requirements for recording. Recording of contact details and property requirements would provide flexibility to Landbnb in contacting the holidaymaker for providing any service.
 Originator: Mayuresh Pukale
+
+REQ-ID: DT1
+Description: The product must allow for holiday makers to cancel their booking within predefined time limits
+Type: Functional Requirement
+Rationale: If a holidaymaker cannot make it for the selected holiday period, then the holidaymaker should have to capability to cancel the booking
+Originator: Dimitrios Torolopoulos
+
+REQ-ID: DT2
+Description: The product must allow for booking cancellation or amendment if a natural phenomenon, or disaster affects the property
+Type: Functional Requirement
+Rationale: If the booked property suffers some damage (e.g. fire, extreme weather), holidaymaker must have the option of cancelling his booking or changing the booked property.
+Originator: Dimitrios Torolopoulos 
