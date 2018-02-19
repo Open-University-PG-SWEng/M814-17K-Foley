@@ -114,3 +114,16 @@ Description: The product shall provide a query facility that displays prices of 
 Type: Functional Requirement
 Rationale: This is to support the calculation of a recommended property rental price supplied by LandBnB to the Property Owner. This is not fully automated as the LandBnB agent takes into account anything else they may think affects the price
 Originator: Simon (ouspt2020)
+
+
+REQ-ID: OHE01
+Type: Functional requirement
+Description: The product shall accept pictures of a property that is to be advertised.
+Rationale: The agency wants to show pictures of the property to potential holidaymakers. 
+Originator: Henry Eze 
+
+REQ-ID: OHE02
+Type: Functional requirement
+Description: The product shall accept a collection of services that are available in the property that is too be advertised.
+Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
+Originator: Henry Eze 
