@@ -1,0 +1,14 @@
+REQ.ID:AK1
+FUNCTIONAL REQUIREMENT. 
+ORIGINATOR:Abba44
+DESCRIPTION:
+The owner shall submit property details on the "EVERYDAY WEBSITE" for a fee. 
+RATIONALE:
+Paid via debit/credit card at the time of submission, is an enticing prospect. 
+REQ.ID : AK2
+FUNCTIONAL REQUIREMENT. 
+ORIGINATOR:Abba44
+DESCRIPTION:
+The owner has an obligation, in UK legislation, to provide correct details of his property to prospective holidaymakers 
+RATIONALE:
+If a renter felt that the information about a property on the "EVERYDAY WEBSITE" is false or misleading they could report Brian Aldridge (owner of agency)  to the regulator, VisitBritain, who could mete out a heavy fine or close the Agency. 
