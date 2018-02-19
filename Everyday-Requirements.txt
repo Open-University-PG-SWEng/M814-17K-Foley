@@ -96,3 +96,21 @@ Description: The product shall allow for booking cancellation or amendment if a 
 Type: Functional Requirement
 Rationale: If the booked property suffers some damage (e.g. fire, extreme weather), holidaymaker must have the option of cancelling his booking or changing the booked property.
 Originator: Dimitrios Torolopoulos 
+
+REQ-ID: SPT01
+Description: The product shall record formal details of a property survey:
+- Photographs
+- Rooms
+- Heating
+- Services (Electricity, Gas, Water)
+- Owner provided Inventory (Cooking Utensils, Crockery)
+- Outstanding Features
+Type: Functional Requirement
+Rationale: This is critical information to support the calculation of a recommend property rental price, drawing of contracts and the onward advertisment of the property
+Originator: Simon (ouspt2020)
+
+REQ-ID: SPT02
+Description: The product shall provide a query facility that displays prices of properties with specific attributes, within a specific location
+Type: Functional Requirement
+Rationale: This is to support the calculation of a recommended property rental price supplied by LandBnB to the Property Owner. This is not fully automated as the LandBnB agent takes into account anything else they may think affects the price
+Originator: Simon (ouspt2020)
