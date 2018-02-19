@@ -124,6 +124,6 @@ Originator: Henry Eze
 
 REQ-ID: OHE02
 Type: Functional requirement
-Description: The product shall accept a collection of services that are available in the property that is too be advertised.
+Description: The product shall accept a collection of services that are available in the property that is to be advertised.
 Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
 Originator: Henry Eze 
