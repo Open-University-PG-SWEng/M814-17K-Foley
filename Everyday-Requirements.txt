@@ -1,39 +1,26 @@
-﻿REQ-ID:JO1
-Description:The website stores Holidaymaker's contact details.Contact details would be email address, mobile number and address.
-Type:Functional Requirement
-Rationale:To inform potential holidaymaker of available holiday let properties throughout the year,by contacting holidaymaker via email, text message to mobile or by sending out pamphlets. The originator for obtaining this information could be a database on the ‘Every Day’ website or ‘Everyday’ letting agency.
-Originator:Jo Owens 
-
-REQ-ID: JO2
-Description:Creating a website that shows, a variety of profession photographs, of Landbnb’s holiday let properties, that show the types of property on offer, if they cater for a family or not,do they require off road parking, location shots. Also showing local attractions and amenities. The originator of this information would be from the property owner and letting agency representative. 
-Type:Functional Requirement
-Rationale: Creating a website that entices holidaymakers to make a booking. 
-Orginator:Jo Owens 
+﻿REQ-ID: MP1
+Description: The product shall ask for contact details.
+Type: Functional Requirement
+Rationale: To get holiday-maker details for saving them.
+Originator: Mayuresh Pukale
 
 REQ-ID: SE1
-Description: The product allows storage of holidaymaker contact details
+Description: The product shall allows storage of holidaymaker contact details
 Type: Functional Requirement
 Rationale: Client details enable future identification and contact
 Originator: Steven Elkins – Software developer 
 
-REQ-ID: SE2
-Description: The product allows rental properties to be booked and recorded in the booking diary
+REQ-ID: SR1
+Description: The product shall allow users to access properties lists. 
 Type: Functional Requirement
-Rationale: By logging the booking the property owner knows when the property is rented, also it is not possible to inadvertently double-book the property 
-Originator: Steven Elkins – Software developer 
+Rationale: the property lists should have access control that can provide access to users.
+Originator: Simcha Riseman 
 
-REQ-ID: RV
-Description: The product must be able to send requests to the local property Service company. 
+REQ-ID: DG2
+Description: The product shall be able to display up-to-date property availability
 Type: Functional Requirement
-Rationale: If owner requests maintenance and cleaning to be done, product must send requests to the local property Service company, for property to be maintenanced and cleaned. 
-Originator: Remigijus Vindasius – Software developer 
-
-REQ-ID: RV
-Description: The product must produce booking confirmation letter.
-Type: Functional Requirement
-Rationale: When booking is completed system produces booking confirmation letter for the holidaymaker and the property owner.
-
-Originator: Remigijus Vindasius – Software developer 
+Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
+Originator: Deirdre Gilna
 
 REQ-ID: DG1 
 Description: The product shall include filtering of the property list.
@@ -41,58 +28,9 @@ Type: Functional Requirement
 Rationale: To enable customers to quickly view properties which match their requirements.
 Originator: Deirdre Gilna
 
-REQ-ID: DG2
-Description: The product shall display up-to-date property availability
-Type: Functional Requirement
-Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
-Originator: Deirdre Gilna
-
-
 REQ-ID: BM1
 Description: The product shall allow the list of filtered properties to be saved.
 Type: Functional Requirement
 Rationale: To allow users to save a list of filtered properties for future use, so they do not have to repeat the search process again.
 Originator: Becky Morfitt
 
-REQ-ID: BM2
-Description: The product shall allow properties to be filtered by available date range, location and price.
-Type: Functional Requirement
-Rationale: To allow users to exclude properties from their search that do not match the criteria and save time by narrowing down the number of properties displayed.
-Originator: Becky Morfitt
-
-REQ-ID: SR1
-Description: The product shall allow users to access and view all available properties. 
-Type: Functional Requirement
-Rationale: holiday makers could access property information independently.
-Originator: Simcha Riseman 
-
-REQ-ID: SR2
-Description: The product shall have a search and filter capabilities.
-Type: Functional Requirement
-Rationale: Search and filters options provide holiday makers fast access to relevant properties.
-Originator: Simcha Riseman 
-
-REQ-ID: MP1
-Description: The product shall ask for contact details and property requirements of holidaymaker.
-Type: Functional Requirement
-Rationale: To enable the holidaymaker to identify how to proceed for finding and booking a suitable property.
-Originator: Mayuresh Pukale
-
-
-REQ-ID: MP2
-Description: The product shall accept contact details and property requirements of holidaymaker.
-Type: Functional Requirement
-Rationale: To allow the holidaymaker to provide contact details and property requirements for recording. Recording of contact details and property requirements would provide flexibility to Landbnb in contacting the holidaymaker for providing any service.
-Originator: Mayuresh Pukale
-
-REQ-ID: DT1
-Description: The product shall allow for holiday makers to cancel their booking within predefined time limits
-Type: Functional Requirement
-Rationale: If a holidaymaker cannot make it for the selected holiday period, then the holidaymaker should have to capability to cancel the booking
-Originator: Dimitrios Torolopoulos
-
-REQ-ID: DT2
-Description: The product shall allow for booking cancellation or amendment if a natural phenomenon, or disaster affects the property
-Type: Functional Requirement
-Rationale: If the booked property suffers some damage (e.g. fire, extreme weather), holidaymaker must have the option of cancelling his booking or changing the booked property.
-Originator: Dimitrios Torolopoulos 
