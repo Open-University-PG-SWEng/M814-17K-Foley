@@ -10,12 +10,6 @@ Type:Functional Requirement
 Rationale: Creating a website that entices holidaymakers to make a booking. 
 Orginator:Jo Owens 
 
-REQ-ID: SE1
-Description: The product allows storage of holidaymaker contact details
-Type: Functional Requirement
-Rationale: Client details enable future identification and contact
-Originator: Steven Elkins – Software developer 
-
 REQ-ID: SE2
 Description: The product allows rental properties to be booked and recorded in the booking diary
 Type: Functional Requirement
@@ -32,21 +26,13 @@ REQ-ID: RV
 Description: The product must produce booking confirmation letter.
 Type: Functional Requirement
 Rationale: When booking is completed system produces booking confirmation letter for the holidaymaker and the property owner.
-
 Originator: Remigijus Vindasius – Software developer 
-
-REQ-ID: DG1 
-Description: The product shall include filtering of the property list.
-Type: Functional Requirement
-Rationale: To enable customers to quickly view properties which match their requirements.
-Originator: Deirdre Gilna
 
 REQ-ID: DG2
 Description: The product shall display up-to-date property availability
 Type: Functional Requirement
 Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
 Originator: Deirdre Gilna
-
 
 REQ-ID: BM1
 Description: The product shall allow the list of filtered properties to be saved.
@@ -66,21 +52,8 @@ Type: Functional Requirement
 Rationale: holiday makers could access property information independently.
 Originator: Simcha Riseman 
 
-REQ-ID: SR2
-Description: The product shall have a search and filter capabilities.
-Type: Functional Requirement
-Rationale: Search and filters options provide holiday makers fast access to relevant properties.
-Originator: Simcha Riseman 
-
-REQ-ID: MP1
-Description: The product shall ask for contact details and property requirements of holidaymaker.
-Type: Functional Requirement
-Rationale: To enable the holidaymaker to identify how to proceed for finding and booking a suitable property.
-Originator: Mayuresh Pukale
-
-
-REQ-ID: MP2
-Description: The product shall accept contact details and property requirements of holidaymaker.
+REQ-ID: MP
+Description: The product shall ask for property requirements of holidaymaker.
 Type: Functional Requirement
 Rationale: To allow the holidaymaker to provide contact details and property requirements for recording. Recording of contact details and property requirements would provide flexibility to Landbnb in contacting the holidaymaker for providing any service.
 Originator: Mayuresh Pukale
@@ -114,18 +87,3 @@ Description: The product shall provide a query facility that displays prices of 
 Type: Functional Requirement
 Rationale: This is to support the calculation of a recommended property rental price supplied by LandBnB to the Property Owner. This is not fully automated as the LandBnB agent takes into account anything else they may think affects the price
 Originator: Simon (ouspt2020)
-
-
-REQ-ID: OHE01
-Type: Functional requirement
-Description: The product shall accept pictures of a property that is to be advertised.
-Rationale: The agency wants to show pictures of the property to potential holidaymakers. 
-Originator: Henry Eze 
-
-REQ-ID: OHE02
-Type: Functional requirement
-Description: The product shall accept a collection of services that are available in the property that is to be advertised.
-Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
-Originator: Henry Eze 
-
-Test
