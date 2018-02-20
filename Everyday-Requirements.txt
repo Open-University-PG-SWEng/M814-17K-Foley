@@ -1,8 +1,8 @@
-﻿REQ-ID:JO1
-Description:The website stores Holidaymaker's contact details.Contact details would be email address, mobile number and address.
-Type:Functional Requirement
-Rationale:To inform potential holidaymaker of available holiday let properties throughout the year,by contacting holidaymaker via email, text message to mobile or by sending out pamphlets. The originator for obtaining this information could be a database on the ‘Every Day’ website or ‘Everyday’ letting agency.
-Originator:Jo Owens 
+﻿--REQ-ID:JO1
+--Description:The website stores Holidaymaker's contact details.Contact details would be email address, mobile number and address.
+--Type:Functional Requirement
+--Rationale:To inform potential holidaymaker of available holiday let properties throughout the year,by contacting holidaymaker via email, text message to mobile or by sending out pamphlets. The originator for obtaining this information could be a database on the ‘Every Day’ website or ‘Everyday’ letting agency.
+--Originator:Jo Owens 
 
 REQ-ID: JO2
 Description:Creating a website that shows, a variety of profession photographs, of Landbnb’s holiday let properties, that show the types of property on offer, if they cater for a family or not,do they require off road parking, location shots. Also showing local attractions and amenities. The originator of this information would be from the property owner and letting agency representative. 
@@ -10,11 +10,11 @@ Type:Functional Requirement
 Rationale: Creating a website that entices holidaymakers to make a booking. 
 Orginator:Jo Owens 
 
-REQ-ID: SE1
-Description: The product allows storage of holidaymaker contact details
-Type: Functional Requirement
-Rationale: Client details enable future identification and contact
-Originator: Steven Elkins – Software developer 
+--REQ-ID: SE1
+--Description: The product allows storage of holidaymaker contact details
+--Type: Functional Requirement
+--Rationale: Client details enable future identification and contact
+--Originator: Steven Elkins – Software developer 
 
 REQ-ID: SE2
 Description: The product allows rental properties to be booked and recorded in the booking diary
@@ -32,20 +32,19 @@ REQ-ID: RV
 Description: The product must produce booking confirmation letter.
 Type: Functional Requirement
 Rationale: When booking is completed system produces booking confirmation letter for the holidaymaker and the property owner.
-
 Originator: Remigijus Vindasius – Software developer 
 
-REQ-ID: DG1 
-Description: The product shall include filtering of the property list.
-Type: Functional Requirement
-Rationale: To enable customers to quickly view properties which match their requirements.
-Originator: Deirdre Gilna
+--REQ-ID: DG1 
+--Description: The product shall include filtering of the property list.
+--Type: Functional Requirement
+--Rationale: To enable customers to quickly view properties which match their requirements.
+--Originator: Deirdre Gilna
 
-REQ-ID: DG2
-Description: The product shall display up-to-date property availability
-Type: Functional Requirement
-Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
-Originator: Deirdre Gilna
+--REQ-ID: DG2
+--Description: The product shall display up-to-date property availability
+--Type: Functional Requirement
+--Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
+--Originator: Deirdre Gilna
 
 
 REQ-ID: BM1
@@ -60,17 +59,17 @@ Type: Functional Requirement
 Rationale: To allow users to exclude properties from their search that do not match the criteria and save time by narrowing down the number of properties displayed.
 Originator: Becky Morfitt
 
-REQ-ID: SR1
-Description: The product shall allow users to access and view all available properties. 
-Type: Functional Requirement
-Rationale: holiday makers could access property information independently.
-Originator: Simcha Riseman 
+--REQ-ID: SR1
+--Description: The product shall allow users to access and view all available properties. 
+--Type: Functional Requirement
+--Rationale: holiday makers could access property information independently.
+--Originator: Simcha Riseman 
 
-REQ-ID: SR2
-Description: The product shall have a search and filter capabilities.
-Type: Functional Requirement
-Rationale: Search and filters options provide holiday makers fast access to relevant properties.
-Originator: Simcha Riseman 
+--REQ-ID: SR2
+--Description: The product shall have a search and filter capabilities.
+--Type: Functional Requirement
+--Rationale: Search and filters options provide holiday makers fast access to relevant properties.
+--Originator: Simcha Riseman 
 
 REQ-ID: MP1
 Description: The product shall ask for contact details and property requirements of holidaymaker.
@@ -116,14 +115,14 @@ Rationale: This is to support the calculation of a recommended property rental p
 Originator: Simon (ouspt2020)
 
 
-REQ-ID: OHE01
-Type: Functional requirement
-Description: The product shall accept pictures of a property that is to be advertised.
-Rationale: The agency wants to show pictures of the property to potential holidaymakers. 
-Originator: Henry Eze 
+--REQ-ID: OHE01
+--Type: Functional requirement
+--Description: The product shall accept pictures of a property that is to be advertised.
+--Rationale: The agency wants to show pictures of the property to potential holidaymakers. 
+--Originator: Henry Eze 
 
-REQ-ID: OHE02
-Type: Functional requirement
-Description: The product shall accept a collection of services that are available in the property that is to be advertised.
-Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
-Originator: Henry Eze 
+--REQ-ID: OHE02
+--Type: Functional requirement
+--Description: The product shall accept a collection of services that are available in the property that is to be advertised.
+--Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
+--Originator: Henry Eze 
