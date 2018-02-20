@@ -1,4 +1,4 @@
-﻿REQ-ID:JO1
+REQ-ID:JO1
 Description:The website stores Holidaymaker's contact details.Contact details would be email address, mobile number and address.
 Type:Functional Requirement
 Rationale:To inform potential holidaymaker of available holiday let properties throughout the year,by contacting holidaymaker via email, text message to mobile or by sending out pamphlets. The originator for obtaining this information could be a database on the ‘Every Day’ website or ‘Everyday’ letting agency.
@@ -127,3 +127,5 @@ Type: Functional requirement
 Description: The product shall accept a collection of services that are available in the property that is to be advertised.
 Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
 Originator: Henry Eze 
+
+Test
