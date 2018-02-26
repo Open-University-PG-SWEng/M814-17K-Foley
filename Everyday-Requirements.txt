@@ -127,3 +127,15 @@ Type: Functional requirement
 Description: The product shall accept a collection of services that are available in the property that is to be advertised.
 Rationale: The agency wants to showcase the available services that a property has. For example electricity, gas, and water.
 Originator: Henry Eze 
+
+REQ-ID: GOC 01
+Description: The product shall make the holidaymaker agree to the terms and conditions of LandBnB before completing a booking
+Type: Functional Requirement
+Rationale: This is to insure agreement with landbnbs terms and conditions before completing a booking 
+Originator: Garreth OCallaghan
+
+REQ-ID: GOC 02
+Description: The product shall produce a receipt upon completion of the booking
+Type: Functional Requirement
+Rationale: This is to provide documentation for both holidaymaker and LandBnB 
+Originator: Garreth OCallaghan
