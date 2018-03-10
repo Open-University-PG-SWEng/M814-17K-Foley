@@ -1,0 +1,9 @@
+REQ-ID:NFR-DG01
+Description: The booking confirmation shall clearly display the booking details.
+Type: 10
+Rationale: The holidaymaker needs to be able to easily check that there are no errors in their booking and to be able to quickly find and quote relevant details (e.g. reference numbers or dates) for dealings with Landbnb.
+Fit Criterion: Holidaymakers must be able to locate details that are requested within five seconds.
+Originator: Derived from functional requirement AB5
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
