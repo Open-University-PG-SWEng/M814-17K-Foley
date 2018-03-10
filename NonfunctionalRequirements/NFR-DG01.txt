@@ -5,5 +5,5 @@ Rationale: The holidaymaker needs to be able to easily check that there are no e
 Fit Criterion: Holidaymakers must be able to locate details that are requested within five seconds.
 Originator: Derived from functional requirement AB5
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
+[RV] I think - The booking confirmation shall clearly state the booking details. As "display" may be part of solution - to display it on screen, but this confirmation can be stated using email, phone message, phone call or by other means. For Fit criteria you used users ability to locate details, but diferent Holidaymakers abilities is difers. I think Fit criteria would be - All users must receive booking confirmation, by at least one method.
 
