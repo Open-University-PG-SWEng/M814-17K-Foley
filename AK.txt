@@ -1,0 +1,34 @@
+REQ.ID:AK1
+FUNCTIONAL REQUIREMENT. 
+ORIGINATOR:Abba44
+DESCRIPTION:
+The owner shall submit property details on the "EVERYDAY WEBSITE" for a fee. 
+RATIONALE:
+Paid via debit/credit card at the time of submission, is an enticing prospect. 
+REQ.ID : AK2
+FUNCTIONAL REQUIREMENT. 
+ORIGINATOR:Abba44
+DESCRIPTION:
+The owner has an obligation, in UK legislation, to provide correct details of his property to prospective holidaymakers 
+RATIONALE:
+If a renter felt that the information about a property on the "EVERYDAY WEBSITE" is false or misleading they could report Brian Aldridge (owner of agency)  to the regulator, VisitBritain, who could mete out a heavy fine or close the Agency. 
+
+
+
+REQ.ID AK3
+FUNCTIONAL REQUIREMENT 
+ORIGINATOR : EVERYDAY LETTING AGENCY 
+DESCRIPTION:
+The website shall garner prospective holidaymakers contacts via emails,mobile no and designations
+RATIONALE:
+Advertisements shall be sent out throughout the year to potential holidaymakers via email, text messages and pamphlets/brochures to their addresses. 
+
+REQ. ID AK4
+FUNCTIONAL REQUIREMENT 
+ORIGINATORS : AISHA JAYAKODI
+PROPERTY OWNER
+DESCRIPTION:
+The website shall show photos of properties uploaded on it by property owners. 
+RATIONALE
+The properties shall be in varieties like self catering, bed and breakfast accommodation or large enough to satisfy the needs of a extremely large family with kids or physically challenged individuals .The photographs of these properties will be on the website. Also some holidaymakers might be mobile,  so they want to ascertain if the property has parking lots or street parking. 
+The website will contain Shots of extensive greenery, local theme parks, nearby restaurants,cinemas, Broadway theartres, museums, libraries, shopping malls, open markets, banks, beaches etc 
