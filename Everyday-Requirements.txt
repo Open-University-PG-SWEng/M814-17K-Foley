@@ -1,4 +1,4 @@
-﻿﻿Set of Unique Requirements for the Everyday project (specified by Richard Foley)
+﻿﻿﻿Set of Unique Requirements for the Everyday project (specified by Richard Foley)
 
 TO BE USED FOR TMA03 Q1
 
@@ -122,6 +122,9 @@ Rationale:To inform potential holidaymaker of available holiday let properties t
 Originator:Jo Owens 
 
 REQ-ID: JO2
+
+﻿REQ-ID: JO2
+>>>>>>> M814-17K-Foley-BM
 Description:Creating a website that shows, a variety of profession photographs, of Landbnb’s holiday let properties, that show the types of property on offer, if they cater for a family or not,do they require off road parking, location shots. Also showing local attractions and amenities. The originator of this information would be from the property owner and letting agency representative. 
 Type:Functional Requirement
 Rationale: Creating a website that entices holidaymakers to make a booking. 
@@ -149,14 +152,7 @@ REQ-ID: RV
 Description: The product must produce booking confirmation letter.
 Type: Functional Requirement
 Rationale: When booking is completed system produces booking confirmation letter for the holidaymaker and the property owner.
-
 Originator: Remigijus Vindasius – Software developer 
-
-REQ-ID: DG1 
-Description: The product shall include filtering of the property list.
-Type: Functional Requirement
-Rationale: To enable customers to quickly view properties which match their requirements.
-Originator: Deirdre Gilna
 
 REQ-ID: DG2
 Description: The product shall display up-to-date property availability
@@ -164,17 +160,10 @@ Type: Functional Requirement
 Rationale: To enable correct searching of property availability and thus correct inclusion of properties in the customers filtered shortlist and avoid double-booking.
 Originator: Deirdre Gilna
 
-
 REQ-ID: BM1
 Description: The product shall allow the list of filtered properties to be saved.
 Type: Functional Requirement
 Rationale: To allow users to save a list of filtered properties for future use, so they do not have to repeat the search process again.
-Originator: Becky Morfitt
-
-REQ-ID: BM2
-Description: The product shall allow properties to be filtered by available date range, location and price.
-Type: Functional Requirement
-Rationale: To allow users to exclude properties from their search that do not match the criteria and save time by narrowing down the number of properties displayed.
 Originator: Becky Morfitt
 
 REQ-ID: SR1
@@ -193,13 +182,6 @@ REQ-ID: MP1
 Description: The product shall ask for contact details and property requirements of holidaymaker.
 Type: Functional Requirement
 Rationale: To enable the holidaymaker to identify how to proceed for finding and booking a suitable property.
-Originator: Mayuresh Pukale
-
-
-REQ-ID: MP2
-Description: The product shall accept contact details and property requirements of holidaymaker.
-Type: Functional Requirement
-Rationale: To allow the holidaymaker to provide contact details and property requirements for recording. Recording of contact details and property requirements would provide flexibility to Landbnb in contacting the holidaymaker for providing any service.
 Originator: Mayuresh Pukale
 
 REQ-ID: DT1
