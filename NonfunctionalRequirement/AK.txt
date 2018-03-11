@@ -1,0 +1,9 @@
+REQ.ID:AK.txt 
+FR:OIA4 
+DESCRIPTION:The product shall make a weekly schedule of maintenance/cleaning requirements for local service company. 
+NFR1:MAINTAINABILITY REQUIREMENT 
+NFR2:LOOK AND FEEL REQUIREMENT 
+RATIONALE:To enable request be made for maintenance/cleaning with local property services company to service individual properties as required. 
+FIT CRITERIA1:The individual booking diary is consulted and the property's service schedule logged in it every month, is seeker, in order to place a call-out to the local services company in case the landlord is away or prefers the local cleaning/maintenance company to carry out the repairs cum cleaning of the property. 
+FIT CRITERIA 2:To determine the percentage of customer satisfaction by gathering feedbacks from holiday makers about the environment of the property in terms of cleanliness/restfulness via survey at the end of their stay. 
+ORIGINATOR:Ayisha Jakayodi 
