@@ -1,0 +1,9 @@
+REQ-ID:NFR-JO1
+Description:A database stores weekly schedules of cleaning and maintenance work that can be printed off or looked at.
+Type:11
+Rationale:To allocate work to cleaning staff and maintenance workers.
+Fit Criterion:A record for each property has all details populated so that cleaning and maintenance staff can complete the work that was originally requested.
+Originator:Derived from functional requirement AOI2
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
