@@ -121,20 +121,12 @@ Type:Functional Requirement
 Rationale:To inform potential holidaymaker of available holiday let properties throughout the year,by contacting holidaymaker via email, text message to mobile or by sending out pamphlets. The originator for obtaining this information could be a database on the ‘Every Day’ website or ‘Everyday’ letting agency.
 Originator:Jo Owens 
 
-REQ-ID: JO2
-
 ﻿REQ-ID: JO2
 >>>>>>> M814-17K-Foley-BM
 Description:Creating a website that shows, a variety of profession photographs, of Landbnb’s holiday let properties, that show the types of property on offer, if they cater for a family or not,do they require off road parking, location shots. Also showing local attractions and amenities. The originator of this information would be from the property owner and letting agency representative. 
 Type:Functional Requirement
 Rationale: Creating a website that entices holidaymakers to make a booking. 
 Orginator:Jo Owens 
-
-REQ-ID: SE1
-Description: The product allows storage of holidaymaker contact details
-Type: Functional Requirement
-Rationale: Client details enable future identification and contact
-Originator: Steven Elkins – Software developer 
 
 REQ-ID: SE2
 Description: The product allows rental properties to be booked and recorded in the booking diary
