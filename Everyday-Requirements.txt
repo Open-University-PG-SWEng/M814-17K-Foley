@@ -124,7 +124,6 @@ Originator:Jo Owens
 REQ-ID: JO2
 
 ﻿REQ-ID: JO2
->>>>>>> M814-17K-Foley-BM
 Description:Creating a website that shows, a variety of profession photographs, of Landbnb’s holiday let properties, that show the types of property on offer, if they cater for a family or not,do they require off road parking, location shots. Also showing local attractions and amenities. The originator of this information would be from the property owner and letting agency representative. 
 Type:Functional Requirement
 Rationale: Creating a website that entices holidaymakers to make a booking. 
