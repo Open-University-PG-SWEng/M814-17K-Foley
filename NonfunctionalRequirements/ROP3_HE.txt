@@ -3,7 +3,7 @@ Description: The product shall ensure that rental price details adhere to rules 
 Type: 17 
 Rationale: The company needs to comply with the marketing and advertising laws in regards to pricing to avoid legal action and bad publicity. 
 Fit Criterion: The product shall comply with section 3 from 3.17 to 3.22 of CAP code.
-Originator:
+Originator: Derived from functional requirement ROP3
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 
