@@ -1,0 +1,8 @@
+{REQ-ID: NFR-BM1
+Description: The product shall be able to display the list of available holiday properties to a holidaymaker within a reasonable timeframe.
+Type: Performance (12)
+Rationale: The list of available holiday properties must be displayed to a holidaymaker as soon as possible because a holidaymaker may loose interest and prospective business may be lost.
+Fit Criterion: The list of available holiday properties will be displayed to a holiday maker within 60 seconds.
+Originator: Becky Morfitt
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[RV] it does sound as functional requirement to me as you say - "The product shall be able to display", I think it may have duplication issue with HE3 itself when implemented. Your Fit criterion depends a lot on machine holiday maker is using for access to the product, or speed of connection he may have. I think we have to measure product performance, but not holiday maker equipment abilities.

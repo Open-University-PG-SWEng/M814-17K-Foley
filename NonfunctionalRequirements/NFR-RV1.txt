@@ -1,0 +1,9 @@
+REQ-ID: NFR-RV1
+Description:The product shall use secure method to accept the payment.
+Type: Non-functional Requirement
+Rationale: To enable holiday maker make payment securely, avoid fraud and maintain privacy.
+Fit Criterion: method used for payment is 100% secure and private. 
+Originator: Remigijus Vindasius
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[RV] delivered fron FR-AB4
+
