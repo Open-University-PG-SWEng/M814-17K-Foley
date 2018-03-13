@@ -1,0 +1,9 @@
+REQ-ID: OSY01
+Description: The product shall ensure that rental price details adhere to rules 3.17 to 3.22 of the Commitee of Advertising practice (CAP) non-broadcast code.
+Type: 17 
+Rationale: The company needs to comply with the marketing and advertising laws in regards to pricing to avoid legal action and bad publicity. 
+Fit Criterion: The product shall comply with section 3 from 3.17 to 3.22 of CAP code.
+Originator:
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
