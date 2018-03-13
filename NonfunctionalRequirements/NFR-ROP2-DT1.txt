@@ -1,0 +1,11 @@
+REQ-ID:NFR-ROP2-DT1
+Description: The product shall record sufficient audit trails for details about the property entered by the owner.
+Type: Security Requirements - Auditing (15)
+Rationale: LandBnb needs to track additions and/or changes to property details by homeowners in a sufficient way in order to excempt themselves from any liability that might incur from misinformation or misrepresentation.
+Fit Criterion: Any change to property details like added photos, changes to provided facilities, changes to available services etc, shall, at least record the date-time stamp the change was made, the item the change was made on, the new value applied, and the user the change originated from.
+Originator: Functional Requirement ROP2
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
+
+
