@@ -7,4 +7,4 @@ The calculation of the space is based on 4 bytes per character for the details b
 Originator: Simcha Riseman
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
-
+[BM] The description of the non-functional requirement looks okay to me. I think the capacity of storing the details of one million holidaymakers seems high enough. I think for the fit criteria though further details could be required for holidays, such as a home address and alternative contact number. Also, the number of characters required for some of the values seem low, for example a double-barrelled surname may exceed more than 15 characters.
