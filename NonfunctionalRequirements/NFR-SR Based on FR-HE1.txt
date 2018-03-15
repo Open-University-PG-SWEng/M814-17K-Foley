@@ -1,9 +1,9 @@
-REQ-ID: SR
+REQ-ID: SR-HE1
 Description: The product shall have a capacity of storing 1M holidaymaker details.
 Type: performance requirement
 Rationale: 1M is the maximum number of potential customers for the product.
-Fit Criterion: the storage size assigned for storing holidaymaker details should be at least 320MB.
-The calculation of the space is based on 4 bytes per character for the details below: first name- maximum 15 characters, last name- maximum 15 characters, email address- maximum 40 characters and phone number- maximum 10 characters
+Fit Criterion: the storage size assigned for storing holidaymaker details should be at least 840MB.
+The calculation of the space is based on 4 bytes per character for the details below: first name- maximum 15 characters, last name- maximum 25 characters, home address- 110 characters, email address- maximum 40 characters, phone number- maximum 10 characters and alternative contact number 10 characters.
 Originator: Simcha Riseman
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
