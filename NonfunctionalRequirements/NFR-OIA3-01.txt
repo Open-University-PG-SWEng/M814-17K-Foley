@@ -9,3 +9,6 @@ Originator   : Ayisha Jayakodi
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 
+[HE] The use of quantifiable properties in the fit criteria are commendable. However, the fit criteria are ambiguous. What happens if the weekly schedule of the property is generated in 6 minutes? Is it acceptable? Given that it is above 5 minutes, it is still below 7 minutes. 
+
+Can you modify the fit criteria to make it unambiguous? For example, if the generation of the schedule should occur in less than 5 minutes 98% of the time, what is the repercussion of it being generated between 5 and 7 minutes. This fit criteria does not currently pass the quality gateway. 
