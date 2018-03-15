@@ -8,4 +8,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [RV] delivered fron FR-AB4
 
 [BM] The description of the non-functional requirement looks okay to me. I think asserting the method used for payment will be 100% secure and private cannot really be achieved because not all threats are known. I suggest it may be more appropriate to remove the ‘100%’ from the fit criteria. Also, add to the fit criteria that the method used for payment is secure and private for known threats.
-
+[SR] in my opinion, the fit criterion needs to be testable, therefore further details about the security approach or security details need to be specified.
