@@ -6,4 +6,7 @@ Fit Criterion:A record, within the database, for each property has all details p
 Originator:Derived from functional requirement OIA2
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
+[HE] 
+The fit critetria is ambiguious and it is not clear what the benchark is. Due to its ambiguity, it cannot be used as an input when designing acceptance tests and it will fail the quality gateway. 
 
+Based on my understanding of the requirement, you want to ensure that cleaning schedule details are accurately captured to enable the assignment of those duties to maintainance workers. Try using a quantity to set a benchmark like “98 percent of schedule details contain x y z, where for example x is the address of the property to be maintained”
