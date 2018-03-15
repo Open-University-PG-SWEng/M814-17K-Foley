@@ -4,8 +4,6 @@ Type: Security Requirements - Auditing (15)
 Rationale: LandBnb needs to track additions and/or changes to property details by homeowners in a sufficient way in order to excempt themselves from any liability that might incur from misinformation or misrepresentation.
 Fit Criterion: Any change to property details like added photos, changes to provided facilities, changes to available services etc, shall, at least record the date-time stamp the change was made, the item the change was made on, the new value applied, and the user the change originated from.
 Originator: Functional Requirement ROP2
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start. 
 
-
-
-
+[HE] I think this fit criterion is correctly defined for this requirement. It provides an attribute that can clearly be used to test this requirement which is the provision of a date-stamp. It is unambiguous and meets part of the purpose of the product, which is to keep track of holiday homes for rent.
