@@ -2,7 +2,7 @@
 Description:The product (A database) stores weekly schedules of cleaning and maintenance work that can be printed off or looked at.
 Type:11
 Rationale:To allocate work to cleaning staff and maintenance workers.
-Fit Criterion:A record, within the database, for each property has all fields populated so that cleaning and maintenance staff can complete the work that was originally requested.The fields within the databse would be; name of property owner, address of property, contact telephone number, cleaning job, tick box for each cleaning task, comment box for cleaning, maintenace job, tick box for each maintenace task , etc.
+Fit Criterion:A record, within the database, for each property has all fields populated so that cleaning and maintenance staff can complete the work that was originally requested.The fields within the databse would be; name of property owner, address of property, contact telephone number, cleaning job, tick box for each cleaning task (unpopulated), comment box for cleaning, maintenace job, tick box for each maintenace task (unpopulated), etc.
 Originator:Derived from functional requirement OIA2
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
