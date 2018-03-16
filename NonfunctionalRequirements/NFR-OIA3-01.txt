@@ -16,7 +16,7 @@ Type         : 12 (Performance requirement)
 Rationale    : The wait time for getting the schedule shall be minimum to enable agents to focus on planning visits.
 Fit Criterion: The weekly schedule of property visits shall be available to the agents within 5 minutes for 95% (or more) of the times 
                after a request to generate the schedule is made and the product shall be allowed to take upto 7 minutes to generate the
-               schedule for a maximum of 5% of the times, but it should never take more than 7 minutes.
+               schedule for a maximum of 5% of the times, but it shall never take more than 7 minutes.
 Originator   : Ayisha Jayakodi
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
