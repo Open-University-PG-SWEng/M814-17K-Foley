@@ -6,8 +6,13 @@ Fit Criterion: The product shall comply with section 3 from 3.17 to 3.22 of CAP 
 Originator: Derived from functional requirement ROP3
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
+
 [MP] - Clear, precise, non-ambiguous and to the point. This non-functional requirement is well written and a has testable fit criterion. 
        However, I have doubts after reading the law 3.22 about how the requirement would be fully testable. How would a tester decide that the availability or 
        amount of benefits are exaggerated? Unfortunately, I cannot read the whole document. Does the document anywhere sepcify that the price claims will be 
        termed as exaggerated if the availability or amount of benefits are less than a certain amount of claimed benefits value? If yes, then it can also be 
        mentioned in the fit criteria. If no, then is it possible to mention quantifiable criteria on the price claims that will be termed as exaggerated?  
+
+[JO] I think that you have given a comprehensive legal requirement for rental properties and the fit criterion can be tested against the benchmarks stated. This should pass the quality gateway.
+
+
