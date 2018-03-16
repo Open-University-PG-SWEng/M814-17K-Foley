@@ -6,6 +6,19 @@ Fit Criterion: The weekly schedule of property visits shall be available to the 
                generate the schedule is made 95% of the times and shall never take more than 7 minutes to generate 
                the schedule.
 Originator   : Ayisha Jayakodi
+
+
+Revised NFR [16-03-2018]:
+
+REQ-ID       : NFR-OIA3-01
+Description  : The product shall produce the weekly schedule of property visits within an acceptable time to the agents.
+Type         : 12 (Performance requirement)
+Rationale    : The wait time for getting the schedule shall be minimum to enable agents to focus on planning visits.
+Fit Criterion: The weekly schedule of property visits shall be available to the agents within 5 minutes for 95% (or more) of the times 
+               after a request to generate the schedule is made and the product shall be allowed to take upto 7 minutes to generate the
+               schedule for a maximum of 5% of the times, but it should never take more than 7 minutes.
+Originator   : Ayisha Jayakodi
+
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 
