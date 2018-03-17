@@ -13,6 +13,6 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
        termed as exaggerated if the availability or amount of benefits are less than a certain amount of claimed benefits value? If yes, then it can also be 
        mentioned in the fit criteria. If no, then is it possible to mention quantifiable criteria on the price claims that will be termed as exaggerated?  
 
-[JO] It would appear that you have given a comprehensive NFR for, government imposing, marketing and advertising laws on rental properties and the fit criterion can be tested against the benchmarks stated. But having looked at 3.20 'Marketing communications that state prices must also state applicable delivery, freight or postal charges or, if those cannot reasonably be calculated in advance, state that such charges are payable.' I don't see how that is applicable to rental prices.
+[JO] It would appear that you have given a comprehensive NFR for, government imposing, marketing and advertising laws on rental properties and the fit criterion can be tested against the benchmarks stated. But having looked at 3.20 'Marketing communications that state prices must also state applicable delivery, freight or postal charges or, if those cannot reasonably be calculated in advance, state that such charges are payable.' I don't see how that is applicable to rental prices. Therefore I feel 3.20 should be excluded from Fit Criterion.
 
 
