@@ -7,5 +7,13 @@ Originator: Remigijus Vindasius
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [RV] delivered fron FR-AB4
 
-[BM] The description of the non-functional requirement looks okay to me. I think asserting the method used for payment will be 100% secure and private cannot really be achieved because not all threats are known. I suggest it may be more appropriate to remove the ‘100%’ from the fit criteria. Also, add to the fit criteria that the method used for payment is secure and private for known threats.
+[BM] The description of the non-functional requirement looks okay to me. I think asserting the method used for payment will be 100% secure and private cannot really be achieved because not all threats are known. I suggest it may be more appropriate to remove the ?100%? from the fit criteria. Also, add to the fit criteria that the method used for payment is secure and private for known threats.
 [SR] in my opinion, the fit criterion needs to be testable, therefore further details about the security approach or security details need to be specified.
+
+[SPT] First sorry for the lateness of this comment. I have the following comments.
+
+1.I believe the Type needs to specify '15 (Security)' - that is if the intention is to use Volere classification system
+2.I like that idea that you are specifying a secure method or methods. One can then use the Fit Criteria to elaborate. I believe that payment systems are well elaborated and often used 'as a service'
+3.Please could I recommend that you refer to specific payment method to provide an input to testing this e.g.: Paypal, VISA etc. Certainly deferring the payment clearance and minimising the need to store payment details would contribute to avoiding fraud and maintaining privacy.
+
+
