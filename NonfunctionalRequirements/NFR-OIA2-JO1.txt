@@ -11,4 +11,14 @@ The fit criteria is ambiguous and it is not clear what the benchmark is. Due to 
 
 Based on my understanding of the requirement, you want to ensure that cleaning schedule details are accurately captured to enable the assignment of those duties to maintenance workers. Try using a quantity to set a benchmark like “98 percent of schedule details contain x y z, where for example x is the address of the property to be maintained” 
 
+[SPT] First sorry for the lateness of this comment. I have the following comments.
+
+1. Taking both the Type and Description, what I think you are doing is creating a 'Usability Requirement' of the Weekly Schedules and to make this usable there is a need to print off for viewing. What isn't clear is who is the 'Authority' and hence who's judgement this is 'usable'. Is the Cleaning & Maintenance Staff and/or the Work Manager.
+2. I can see that specifying the content of the print-out provides an input to test, but what I would find hard to test would be the "can complete the work as originally requested", unless I knew what that was. This to me is more about the 'function' or exporting to print and not how usable it ias
+3. To test Usability of the information we could create a representative community of cleaners and quote a measurement where so many of these find the information usable and "can complete the work that was originally requested".
+
+I hope this helps
+
+
+
  
