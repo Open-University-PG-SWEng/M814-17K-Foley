@@ -12,3 +12,4 @@ Supporting Materials: Refer to the following information:
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [SPT] Note that I added Interactions and Supporting Material as reference for the Fit Criterion
+[DG] As a type 15 requirement I find the description and rationale to be spot on. The fit criterion is accurate but could perhaps enter into percentages of completion as the aforementioned standards are a long set of criterion which came into effect after May 2018 and thus do affect the Seabnb release date of <February 2019. Should they be 100% compliant or is there leeway, for example to a similar percentage as in previous existing legislation (It replaces the 1995 Data Protection Directive) - there is also the contingency of "severe penalties" within the regulaton which should guide percentage adherence?

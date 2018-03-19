@@ -2,7 +2,7 @@ REQ-ID:NFR-DG01
 Description: The booking confirmation shall clearly display the booking details.
 Type: 10
 Rationale: The holidaymaker needs to be able to easily check that there are no errors in their booking and to be able to quickly find and quote relevant details (e.g. reference numbers or dates) for dealings with Landbnb.
-Fit Criterion:  95% of holidaymakers must be able to locate details that are requested within ten seconds.
+Fit Criterion: Holidaymakers must be able to locate details that are requested within five seconds.
 Originator: Derived from functional requirement AB5
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [RV] I think - The booking confirmation shall clearly state the booking details. As "display" may be part of solution - to display it on screen, but this confirmation can be stated using email, phone message, phone call or by other means. For Fit criteria you used users ability to locate details, but diferent Holidaymakers abilities is difers. I think Fit criteria would be - All users must receive booking confirmation, by at least one method.
@@ -10,4 +10,14 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [MP] - I think the fit criterion can be made more precise. As everyone's speed of reading and locating the required information may differ, 
        it would make more sense to include a certain percentage of people who would be able to locate the details within 5 seconds.
 
+
+
+[Revised 18/03/2018]
+REQ-ID:NFR-DG01
+Description: The booking confirmation shall clearly display the booking details.
+Type: 10
+Rationale: The holidaymaker needs to be able to easily check that there are no errors in their booking and to be able to quickly find and quote relevant details (e.g. reference numbers or dates) for dealings with Landbnb.
+Fit Criterion:  95% of holidaymakers must be able to locate details that are requested within ten seconds.
+Originator: Derived from functional requirement AB5
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [DG] - edited fit criterion after feedback to allow for different abilities of users
