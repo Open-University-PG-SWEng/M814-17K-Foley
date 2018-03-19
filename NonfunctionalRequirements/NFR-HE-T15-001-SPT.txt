@@ -1,0 +1,14 @@
+REQ-ID: NFR-HE-T15-001
+Description: The confidentiality of Holiday makers personal data acquired by the Property Visit Request shall be maintained
+Type: 15 (Security Requirements)
+Rationale: Personal data must be protected - should the data be shared with unauthorised people there are finanical and reputational risks to the organisation
+Fit Criterion: The Software Masters shall certify the product to meet the standards set out by ‘EU General Data Protection Regulation (GDPR) 2016’
+Originator: Simon Taylor
+Interactions: HE4
+Supporting Materials: Refer to the following information:
+- https://www.eugdpr.org/
+- https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+[SPT] Note that I added Interactions and Supporting Material as reference for the Fit Criterion
