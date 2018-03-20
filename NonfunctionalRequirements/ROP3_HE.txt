@@ -1,29 +1,58 @@
-REQ-ID: OSY01
-Description: The product shall ensure that rental price details adhere to rules 3.17 to 3.22 of the Commitee of Advertising practice (CAP) non-broadcast code.
-Type: 17 
-Rationale: The company needs to comply with the marketing and advertising laws in regards to pricing to avoid legal action and bad publicity. 
-Fit Criterion: The product shall comply with section 3 from 3.17 to 3.22 of CAP code.
-Originator: Derived from functional requirement ROP3
-Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-
-
-[MP] - Clear, precise, non-ambiguous and to the point. This non-functional requirement is well written and a has testable fit criterion. 
-       However, I have doubts after reading the law 3.22 about how the requirement would be fully testable. How would a tester decide that the availability or 
-       amount of benefits are exaggerated? Unfortunately, I cannot read the whole document. Does the document anywhere sepcify that the price claims will be 
-       termed as exaggerated if the availability or amount of benefits are less than a certain amount of claimed benefits value? If yes, then it can also be 
-       mentioned in the fit criteria. If no, then is it possible to mention quantifiable criteria on the price claims that will be termed as exaggerated?  
-
-[JO] It would appear that you have given a comprehensive NFR for, government imposing, marketing and advertising laws on rental properties and the fit criterion can be tested against the benchmarks stated. But having looked at 3.20 'Marketing communications that state prices must also state applicable delivery, freight or postal charges or, if those cannot reasonably be calculated in advance, state that such charges are payable.' I don't see how that is applicable to rental prices. Therefore I feel 3.20 should be excluded from Fit Criterion.
-
-[SPT] First sorry for the lateness of this comment. I have the following comments.
-
-1.CAP is not statutory and is self-regulatory so is not a legal instrument. It is possible that it will assist with legal obligations but would not in itself protect Software Masters from the law.
-2.As mentioned by JO, there are certain things that don't apply
-3.As mentioned by MP, there are elements in the Fit Criteria that would require further elaboration but standards serve as an input to test case design. Some standards are not testable, but compliance is measureable (with work). I support the use of compliance and the references.
-4.Finally, there is repetition in the specification. As the specification (card) as a whole describes the requirement, perhaps keep the description 'high-level' and let the Rationale and Fit Criteria do their work. It would provide an accessible statement to non-legal stakeholders, leaving the details to the engineers involved.
-5.The term 'bad publicity' may be better framed with finacial consequences.
-
-Hope this helps
-
-
-
+REQ-ID: OSY01
+
+Description: The product shall ensure that rental price details adhere to codes 3.17, 3.18, 3.19, 3.21 and 3.22 of the Commitee of Advertising practice (CAP) non-broadcast code.
+
+Type: 17 
+
+Rationale: The company needs to comply with the marketing and advertising laws in regards to pricing to avoid legal action and bad publicity. 
+
+Fit Criterion: The product shall comply with section 3: 3.17, 3.18, 3.19, 3.21 and 3.22 of CAP code.
+
+Originator: Derived from functional requirement ROP3
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
+
+
+
+[MP] - Clear, precise, non-ambiguous and to the point. This non-functional requirement is well written and a has testable fit criterion. 
+
+       However, I have doubts after reading the law 3.22 about how the requirement would be fully testable. How would a tester decide that the availability or 
+
+       amount of benefits are exaggerated? Unfortunately, I cannot read the whole document. Does the document anywhere sepcify that the price claims will be 
+
+       termed as exaggerated if the availability or amount of benefits are less than a certain amount of claimed benefits value? If yes, then it can also be 
+
+       mentioned in the fit criteria. If no, then is it possible to mention quantifiable criteria on the price claims that will be termed as exaggerated?  
+
+
+
+[JO] It would appear that you have given a comprehensive NFR for, government imposing, marketing and advertising laws on rental properties and the fit criterion can be tested against the benchmarks stated. But having looked at 3.20 'Marketing communications that state prices must also state applicable delivery, freight or postal charges or, if those cannot reasonably be calculated in advance, state that such charges are payable.' I don't see how that is applicable to rental prices. Therefore I feel 3.20 should be excluded from Fit Criterion.
+
+
+
+[SPT] First sorry for the lateness of this comment. I have the following comments.
+
+
+
+1.CAP is not statutory and is self-regulatory so is not a legal instrument. It is possible that it will assist with legal obligations but would not in itself protect Software Masters from the law.
+
+2.As mentioned by JO, there are certain things that don't apply
+
+3.As mentioned by MP, there are elements in the Fit Criteria that would require further elaboration but standards serve as an input to test case design. Some standards are not testable, but compliance is measureable (with work). I support the use of compliance and the references.
+
+4.Finally, there is repetition in the specification. As the specification (card) as a whole describes the requirement, perhaps keep the description 'high-level' and let the Rationale and Fit Criteria do their work. It would provide an accessible statement to non-legal stakeholders, leaving the details to the engineers involved.
+
+5.The term 'bad publicity' may be better framed with finacial consequences.
+
+
+
+Hope this helps
+
+
+
+
+
+
+
