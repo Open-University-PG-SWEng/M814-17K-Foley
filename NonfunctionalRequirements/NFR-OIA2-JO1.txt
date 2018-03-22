@@ -1,4 +1,4 @@
-﻿REQ-ID:NFR-OIA2-JO1
+REQ-ID:NFR-OIA2-JO1
 Description:The product (A database) stores weekly schedules of cleaning and maintenance work that can be printed off or looked at.
 Type:11e
 Rationale:To allocate work to cleaning staff and maintenance workers.
@@ -19,6 +19,10 @@ Based on my understanding of the requirement, you want to ensure that cleaning s
 
 I hope this helps
 
+[DT] Apologies for the late comments on this requirements. I think this requirement, raises a valid point, however:
+1. Fit criterion loses context as it utilises high and low level design elements such as 'database', 'fields', 'tick box' and, clearly, does not define a benchmark for testing
+2. Description should be rephrased, for example, 'The product shall allow printing of schedules', but, doing so might indicate that this requirement can also be considered a functional one.
+3. Rationale does not indicate reason or justification of the requirement, and looking closely at it, could have easily been used as a requirement itself.
 
-
+ 
  

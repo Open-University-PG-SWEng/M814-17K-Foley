@@ -21,3 +21,5 @@ Fit Criterion:  95% of holidaymakers must be able to locate details that are req
 Originator: Derived from functional requirement AB5
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [DG] - edited fit criterion after feedback to allow for different abilities of users
+
+[DT] Apologies for the delay in commenting. The description of this non-functional requirement is correct and the rationale makes it easy for the reader to understand the reason of this requirement. However I think the fit criterion should be more accurate. As the fit criterion serves as a benchmark for testing, it should, probably, include a bit more detail as to what the tester(s) should look for. For example: Reservation dates, cost etc. Finally, regarding, the type of this requirement, I am not sure whether this is a type 10 (Look and feel requirement) or type 11 (usability and humanity), as it can be considered a valid usability point (easily locating details).

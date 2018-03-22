@@ -14,6 +14,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 1.I believe the Type needs to specify '15 (Security)' - that is if the intention is to use Volere classification system
 2.I like that idea that you are specifying a secure method or methods. One can then use the Fit Criteria to elaborate. I believe that payment systems are well elaborated and often used 'as a service'
-3.Please could I recommend that you refer to specific payment method to provide an input to testing this e.g.: Paypal, VISA etc. Certainly deferring the payment clearance and minimising the need to store payment details would contribute to avoiding fraud and maintaining privacy.
-
+3.Please could I recommend that you refer to specific payment method to provide an input to testing this e.g.: Paypal, VISA etc. Certainly deferring the payment clearance and minimising the need to store payment details would contribute to avoiding fraud and maintaining privacy.
 
