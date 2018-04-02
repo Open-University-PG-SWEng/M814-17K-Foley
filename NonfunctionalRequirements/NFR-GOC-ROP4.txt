@@ -1,0 +1,16 @@
+REQ-ID: GOC01
+
+Description: The product shall ensure that order processing be easy to use
+
+Type: ergonomic 
+
+Rationale: organisation needs to ensure that the order processing is easy to us inorder for users to have a good experience with their purches
+
+Fit Criterion: be the user shall complete their order in less than 5 clicks including agreeing to the terms and conditions.
+
+Originator: GOC Derived from functional requirement ROP4
+
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
+
